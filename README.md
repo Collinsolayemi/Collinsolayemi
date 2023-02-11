@@ -2,7 +2,7 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>I'm Cornelius Olayemi, currently I'm a  self taught Software Engineer with years of experience in creating and execution of software solution,  passionate about solving problems with technology and creating different solutions.
+<samp>I'm Cornelius Olayemi, I'm a  self taught Software Engineer with years of experience in creating and execution of software solution,  passionate about solving problems with technology and creating different solutions.
 
 An experience, result oriented and forward looking software developer with excellent problem solving skills with reliable determination to enhance business productivity. Has in-depth training in systems architecture, software development, frameworks and optimizing application and confident and proficient in optimising Web pages and applications
 

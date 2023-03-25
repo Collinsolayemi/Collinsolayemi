@@ -1,12 +1,12 @@
 # <samp>CORNELIUS OLAYEMI</samp>
----
+
 ## <samp>Hello World!</samp>
----
+
 <samp>I'm ```Cornelius Olayemi```, a software engineer with years of experience in creating and execution of software solution,  passionate about solving problems with technology and creating different solutions.
----
+
 ## About me
-```An experience, result oriented and forward looking software developer with excellent problem solving skills with reliable determination to enhance business productivity. Has in-depth training in systems architecture, software development, frameworks and optimizing application and confident and proficient in optimising Web pages and applications.```
----
+An experience, result oriented and forward looking software developer with excellent problem solving skills with reliable determination to enhance business productivity. Has in-depth training in systems architecture, software development, frameworks and optimizing application and confident and proficient in optimising Web pages and applications.
+ 
 <samp>I'm also a __content creator__, I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is __```"PEOPLE NEED PEOPLE"```.__</samp>
  
 ---

@@ -7,6 +7,6 @@ I'm ```Collins``` ***an experience, result oriented and forward looking software
 - 💻&nbsp;<samp>I love helping people with the content I share.</samp>
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
-<img src="https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
+
 
 ---

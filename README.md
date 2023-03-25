@@ -1,5 +1,5 @@
 
-I'm ```Collins``` An experience, result oriented and forward looking software engineer with years of exerience and excellent problem solving skills with reliable determination to enhance business productivity. Has in-depth training in systems architecture, software development, frameworks and optimizing application and confident and proficient in optimising Web pages and applications.
+I'm ```Collins``` ***an experience, result oriented and forward looking software engineer*** with years of exerience and excellent problem solving skills with reliable determination to enhance business productivity. Has ***in-depth training in systems architecture, software development, frameworks and optimizing application and confident and proficient in optimising Web pages and applications***.
  
 <samp> I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is __```"PEOPLE NEED PEOPLE"```.__</samp>
  
